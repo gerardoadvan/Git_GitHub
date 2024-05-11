@@ -6,7 +6,7 @@ void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
     title: 'Curso GIT',
-    home: HomePage(title: 'GIT Hub')
+    home: HomePage(title: 'Rama Principal')
   )
 );
 
@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
         elevation: 0,
         backgroundColor: Colors.transparent,
         leading: null,
-        title: Text("Shoes", style: TextStyle(color: Colors.black, fontSize: 25),),
+        title: Text("Zapatos", style: TextStyle(color: Colors.black, fontSize: 25),),
         actions: <Widget>[
           IconButton(
             onPressed: () {},
