@@ -75,7 +75,7 @@ class HomePage extends StatelessWidget {
                       child: FadeInUp(duration: Duration(milliseconds: 1300), child: Container(
                         margin: EdgeInsets.only(right: 10),
                         child: Center(
-                          child: Text("Soccer", style: TextStyle(fontSize: 17),),
+                          child: Text("Football Soccer", style: TextStyle(fontSize: 17),),
                         ),
                       )),
                     ),
@@ -84,7 +84,7 @@ class HomePage extends StatelessWidget {
                       child: FadeInUp(duration: Duration(milliseconds: 1400), child: Container(
                         margin: EdgeInsets.only(right: 10),
                         child: Center(
-                          child: Text("Golf", style: TextStyle(fontSize: 17),),
+                          child: Text("Golf Play", style: TextStyle(fontSize: 17),),
                         ),
                       )),
                     ),
