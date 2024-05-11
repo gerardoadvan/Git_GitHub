@@ -5,7 +5,8 @@ import 'package:flutter/material.dart';
 void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
-    home: HomePage()
+    title: 'Curso GIT',
+    home: HomePage(title: 'GIT Hub')
   )
 );
 
@@ -48,7 +49,7 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(20)
                         ),
                         child: Center(
-                          child: Text("All", style: TextStyle(fontSize: 20),),
+                          child: Text("Todo", style: TextStyle(fontSize: 20),),
                         ),
                       )),
                     ),
