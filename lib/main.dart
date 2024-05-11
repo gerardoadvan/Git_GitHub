@@ -6,8 +6,8 @@ void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
     title: 'Curso GIT Ramas',
-    home: HomePage(title: 'Rama AppBar')
-  )
+    home: HomePage(title: 'Rama AppBar', style: TextStyle(backgroundColor: Colors.blue),),
+  ),
 );
 
 class HomePage extends StatelessWidget {
