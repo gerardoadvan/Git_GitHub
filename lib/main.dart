@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Curso GIT',
-    home: HomePage(title: 'Rama Principal')
+    title: 'Curso GIT Ramas',
+    home: HomePage(title: 'Rama AppBar')
   )
 );
 
