@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Curso GIT',
-    home: HomePage(title: 'Rama Principal')
-  )
+    title: 'Curso GIT y GITHUB',
+    home: HomePage(title: 'Rama AppBar', style: TextStyle(backgroundColor: Colors.blue),),
+  ),
 );
 
 class HomePage extends StatelessWidget {
