@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
           ),
           IconButton(
             onPressed: () {},
-            icon: Icon(Icons.shopping_cart, color: Colors.black,),
+            icon: Icon(Icons.Shoes, color: Colors.black,),
           )
         ],
       ),
@@ -58,7 +58,7 @@ class HomePage extends StatelessWidget {
                       child: FadeInUp(duration: Duration(milliseconds: 1100), child: Container(
                         margin: EdgeInsets.only(right: 10),
                         child: Center(
-                          child: Text("Sneakers", style: TextStyle(fontSize: 17),),
+                          child: Text("Tenis", style: TextStyle(fontSize: 17),),
                         ),
                       )),
                     ),
