@@ -1,3 +1,4 @@
+
 ## Flutter Shoes Shop Application UI Design and Animation
 
 A part of #flutter100daysofcode. Let's create a beautiful and animated Shoes Shop Application UI with Flutter.
@@ -25,3 +26,7 @@ flutter run
 * [Youtube channel](https://youtube.com/afgprogrammer)
 * [Twitter](https://twitter.com/afgprogrammer)
 * [Instagram](https://instagram.com/afgprogrammer)
+
+# AppCursoGit
+App creada para el curso de Git y GitHub.
+
