@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Apenas empieza lo bueno',
+    title: 'Apenas empieza lo bueno DEL CURSO',
     home: HomePage(title: 'Rama AppBar', style: TextStyle(backgroundColor: Colors.blue),),
   ),
 );
