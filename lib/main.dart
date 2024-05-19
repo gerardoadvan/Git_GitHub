@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Curso GitHub vs GitLab',
+    title: 'Apenas empieza lo bueno',
     home: HomePage(title: 'Rama AppBar', style: TextStyle(backgroundColor: Colors.blue),),
   ),
 );
