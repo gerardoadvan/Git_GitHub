@@ -49,7 +49,7 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(20)
                         ),
                         child: Center(
-                          child: Text("Todo", style: TextStyle(fontSize: 20),),
+                          child: Text("Everything", style: TextStyle(fontSize: 20),),
                         ),
                       )),
                     ),
