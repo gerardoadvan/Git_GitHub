@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
         elevation: 0,
         backgroundColor: Colors.transparent,
         leading: null,
-        title: Text("Shoes de Tacón", style: TextStyle(color: Colors.black, fontSize: 25),),
+        title: Text("Zapatos de Tacón", style: TextStyle(color: Colors.black, fontSize: 25),),
         actions: <Widget>[
           IconButton(
             onPressed: () {},
