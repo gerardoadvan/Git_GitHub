@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
         backgroundColor: Colors.transparent,
         leading: null,
         title: Text(
-          "Zapatos",
+          "Zapatos Grandes",
           style: TextStyle(color: Colors.black, fontSize: 25),
         ),
         actions: <Widget>[
