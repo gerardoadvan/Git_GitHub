@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(
       MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Cambios de Gerardo',
+        title: 'Cambios Diseño Completo de ggarcia410',
         home: HomePage(
           title: 'Otros cambios desde Advan',
           style: TextStyle(backgroundColor: Colors.blue),
