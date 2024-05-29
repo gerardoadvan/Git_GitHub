@@ -7,7 +7,7 @@ void main() => runApp(
         debugShowCheckedModeBanner: false,
         title: 'Cambios de Gerardo',
         home: HomePage(
-          title: 'Rama AppBar',
+          title: 'Otros cambios desde Advan',
           style: TextStyle(backgroundColor: Colors.blue),
         ),
       ),
