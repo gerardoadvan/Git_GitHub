@@ -61,7 +61,7 @@ class HomePage extends StatelessWidget {
                             decoration: BoxDecoration(color: Colors.grey[200], borderRadius: BorderRadius.circular(20)),
                             child: Center(
                               child: Text(
-                                "Todo",
+                                "Todo Aquí",
                                 style: TextStyle(fontSize: 20),
                               ),
                             ),
