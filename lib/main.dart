@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Nuevo Inicio',
-    home: HomePage(title: 'Rama AppBar', style: TextStyle(backgroundColor: Colors.blue),),
+    title: 'Diseño Completo',
+    home: HomePage(title: 'Rama Diseño Completo', style: TextStyle(backgroundColor: Colors.blue),),
   ),
 );
 
