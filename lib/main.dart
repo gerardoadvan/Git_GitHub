@@ -117,7 +117,7 @@ class HomePage extends StatelessWidget {
                             margin: EdgeInsets.only(right: 10),
                             child: Center(
                               child: Text(
-                                "SOLUCIÓN DE ERROR",
+                                "SOLUCIÓN DE ERROR CORRECTAMENTE!!!",
                                 style: TextStyle(fontSize: 17),
                               ),
                             ),
