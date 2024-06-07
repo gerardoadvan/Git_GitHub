@@ -7,7 +7,7 @@ void main() => runApp(
         debugShowCheckedModeBanner: false,
         title: 'Cambios Diseño Completo de ggarcia410',
         home: HomePage(
-          title: 'Otros cambios desde Advan',
+          title: 'Fork',
           style: TextStyle(backgroundColor: Colors.blue),
         ),
       ),
