@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(
       MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Cambios Diseño Completo de ggarcia410',
+        title: 'Trabajando con Forks',
         home: HomePage(
           title: 'Fork No Cambio',
           style: TextStyle(backgroundColor: Colors.blue),
