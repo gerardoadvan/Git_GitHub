@@ -34,4 +34,8 @@ App creada para el curso de Git y GitHub.
 
 * Yo mismo instructor.
 
+* Incluye Solución de Dudas
+
+* Con ejemplos reales y trabajo en Equipo (con ejemplos)
+
 # Git_GitHub
