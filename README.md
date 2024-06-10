@@ -30,4 +30,8 @@ flutter run
 # AppCursoGit
 App creada para el curso de Git y GitHub.
 
+* Curso creado para estudio.
+
+* Yo mismo instructor.
+
 # Git_GitHub
