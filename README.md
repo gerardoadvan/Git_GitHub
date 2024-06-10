@@ -40,4 +40,8 @@ App creada para el curso de Git y GitHub.
 
 * Para todo tipo de programador (móvil, web, etc.)
 
+* Esta commit si esta completo
+
+* Espero no me regañen
+
 # Git_GitHub
